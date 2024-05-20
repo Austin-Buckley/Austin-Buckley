@@ -1,8 +1,7 @@
 Hi, I’m @Austin-Buckley
 
 ## JavaScript
-## HTML
-## CSS
+## HTML/CSS
 ## C++
 
 How to reach me ...
