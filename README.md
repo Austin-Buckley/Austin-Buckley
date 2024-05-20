@@ -1,8 +1,6 @@
 Hi, I’m @Austin-Buckley
 
-## JavaScript
-## HTML/CSS
-## C++
+## JavaScript | HTML | CSS
 
 How to reach me ...
 Austinbuckley2012@gmail.com
